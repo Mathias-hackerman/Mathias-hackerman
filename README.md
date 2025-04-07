@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Mathias-hackerman/Mathias-hackerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Olá, eu sou Mathias Hackerman 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+- 🎓 Formação técnica em Desenvolvimento de Sistemas
+- 📜 Curso de Defesa de Redes pela Cisco
+- 📜 Curso de Introdução à Cibersegurança pela Cisco
+- 💻 Interesse em Hacking, Bug Bounty e Pentest
+- 🔢 Apaixonado por Matemática
+
+
+## Habilidades
+- Desenvolvimento de Sistemas
+- Defesa de Redes
+- Cibersegurança
+- Hacking
+- Bug Bounty
+- Pentest
+- Matemática
+- Visual Studio
+- Cisco Packet Tracer
+- Configuração de Firewalls
+
+## Contato
+- 📧 Email: mathias.souza@aluno.senai.br
+
+---
+
+!GitHub Stats
