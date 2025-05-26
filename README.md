@@ -1,7 +1,5 @@
 
 ## Sobre mim
-Confira o efeito de digitação na minha página pessoal: [Clique aqui para ver](https://meuportfolio.github.io/sobre-mim.html)
-
 - 🎓 Formação técnica em Desenvolvimento de Sistemas
 - 📜 Curso de Defesa de Redes pela Cisco
 - 📜 Curso de Introdução à Cibersegurança pela Cisco
