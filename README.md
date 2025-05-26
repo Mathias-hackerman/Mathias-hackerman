@@ -1,10 +1,13 @@
-## Sobre Mim
+
+## Sobre mim
+Confira o efeito de digitação na minha página pessoal: [Clique aqui para ver](https://meuportfolio.github.io/sobre-mim.html)
 
 - 🎓 Formação técnica em Desenvolvimento de Sistemas
 - 📜 Curso de Defesa de Redes pela Cisco
 - 📜 Curso de Introdução à Cibersegurança pela Cisco
 - 💻 Interesse em Hacking, Bug Bounty e Pentest
 - 🔢 Apaixonado por Matemática
+
 
 ![Meu GIF favorito](https://debrasmouse.com/wp-content/uploads/2018/07/bazinga-sheldon.gif)
 ## Habilidades
