@@ -1,15 +1,13 @@
 
-## Sobre mim
-- 🎓 Formação técnica em Desenvolvimento de Sistemas
-- 📜 Curso de Defesa de Redes pela Cisco
-- 📜 Curso de Introdução à Cibersegurança pela Cisco
-- 💻 Interesse em Hacking, Bug Bounty e Pentest
-- 🔢 Apaixonado por Matemática
 
+## Sobre Mim
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=36&duration=8000&pause=1000&color=9FCFE4&center=true&width=750&height=80&lines=Defesa+de+Redes+pela+CISCO;Introdu%C3%A7%C3%A3o+a+Ciberseguran%C3%A7a+pela+CISCO;Desenvolvimento+de+Sistemas+pelo+SENAI;Investigador+OSINT;Estudante+de+Hacking+%C3%A9tico;Perito+em+Matem%C3%A1tica)](https://git.io/typing-svg)
 
-![Meu GIF favorito](https://debrasmouse.com/wp-content/uploads/2018/07/bazinga-sheldon.gif)
+<p align="center">
+    [![Meu GIF favorito](https://debrasmouse.com/wp-content/uploads/2018/07/bazinga-sheldon.gif)]
+</p>
+
 ## Habilidades
-
 <div style="display: inline_block"><br/>
     <img align="center" alt="Desenvolvimento de Sistemas" src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-6C7A88?style=for-the-badge&logo=code&logoColor=ffffff" />
     <img align="center" alt="Defesa de Redes" src="https://img.shields.io/badge/Defesa%20de%20Redes-6A6A6A?style=for-the-badge&logo=shield&logoColor=ffffff" />
