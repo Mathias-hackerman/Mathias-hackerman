@@ -1,8 +1,8 @@
 ## Bem vindos ao meu github!!
 <div align="center">
   <a href="https://github.com/seu-usuario">
-  <img height="180px" width="8100px" src="https://github-readme-stats.vercel.app/api?username=Mathias-hackerman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180px" width="810px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-hackerman&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Mathias-hackerman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathias-hackerman&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Sobre Mim
